@@ -5,8 +5,12 @@
 - 📫 Discord:<!---
 
 <div>
-<img aling="center" alt="Scratch" height="40" width="20" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
+<img aling="center" alt="Scratch" height="40" width="30" src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
 
 <div>
-<img aling="center" alt="Scratch" height="50" width="50" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img aling="center" alt="Scratch" height="40" width="30!https://img.shields.io/badge/JavaScript-323330?style=for-the
+12
+-badge&logo=javascript&logoColor=F7DF1E>
+13
+" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
